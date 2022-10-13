@@ -1,17 +1,39 @@
 {
-    "1": [
-        "1",
-        "2",
-        "3"
-    ],
-    "2": [
-        "1",
-        "2",
-        "3"
-    ],
-    "3": [
-        "1",
-        "2",
-        "3"
-    ]
+  "todos": [
+    {
+      "title": "추가 기능 구현",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "삭제 기능 구현",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "완료 체크박스 구현",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "CSS 구현(간단하게)",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "json-server로 DB 구현",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "title": "잔버그 수정",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "추가 기능 구현",
+      "completed": false,
+      "id": 7
+    }
+  ]
 }
